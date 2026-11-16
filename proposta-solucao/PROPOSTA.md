@@ -1,6 +1,6 @@
 # Proposta de Solução: vendas e pagamentos da Grão Raro
 
-**Equipe:** Pedro Szpak, _(demais integrantes)_
+**Equipe:** Pedro Szpak, Ademir Junior e Christian Ferreira
 **Disciplina:** Padrões de Projeto, Frameworks e APIs, Senac São José dos Pinhais
 
 ## 1. Identificação do problema
