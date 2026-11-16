@@ -1,0 +1,20 @@
+{
+    "id": "2r1r9pucg1pr9puh23085y249vg",
+    "nome": "Pedro Szpak",
+    "idade": 19,
+    "Endereco": {
+        "rua": "Rua Exemplo",
+        "numero": 100,
+        "Complemento": "Sala 1",
+        "cidade": "Curitiba",
+        "estado": "Paraná"
+    },
+    "e-mail": "pedro@exemplo.com",
+    "ativo": true,
+    "curso": "Analise e desenvolvimento de sistemas",
+    "diciplinas": [
+        "Frameworks and APIs",
+        "Mobile Development",
+        "Java POO"
+    ]
+}
