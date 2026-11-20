@@ -7,6 +7,24 @@ Usuário → index.php (PHP) → GET https://dummyjson.com/products/{id} → JSO
        → [Salvar Produto] → salvar.php → MySQL → produtos.php
 ```
 
+![Produtos salvos: painel com total, valor médio e estoque, busca e exclusão](../docs/media/catalogo-produtos.webp)
+
+```mermaid
+erDiagram
+    PRODUTOS {
+        INT id PK
+        INT id_api UK "id do produto na DummyJSON"
+        VARCHAR(200) nome
+        TEXT descricao
+        DECIMAL preco
+        VARCHAR(100) categoria
+        DECIMAL avaliacao
+        INT estoque
+        VARCHAR(500) imagem
+        DATETIME data_cadastro
+    }
+```
+
 ## Funcionalidades
 
 | Requisito | Onde |

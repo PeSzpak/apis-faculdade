@@ -2,6 +2,8 @@
 
 As duas páginas usam a **BrasilAPI** (`/api/cep/v1/{cep}` e `/api/cnpj/v1/{cnpj}`) pelo PHP. As funções de consulta ficam em `consulta.php`, compartilhadas entre as duas telas.
 
+![Consulta do CEP 80010-000 com cidade e UF em destaque](../docs/media/cep-consulta.webp)
+
 ## Atividade 01: `index.php`
 
 | Item | Como ficou |
